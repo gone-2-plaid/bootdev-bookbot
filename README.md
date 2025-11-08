@@ -1,2 +1,3 @@
-# bootdev-bookbot
-My code repository for learning from boot.dev curriculum
+# bookbot
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
